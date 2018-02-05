@@ -19,6 +19,11 @@ body {
 
 .title-main {
 	font-weight: 300;
+	color: #565656;
+}
+
+.danger {
+	color: #9e5353;
 }
 
 @keyframes present-right {
